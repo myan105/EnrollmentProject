@@ -1,2 +1,2 @@
 # EnrollmentProject
-#Enrollment schema for a MongoDB implementation
+Enrollment schema for a MongoDB implementation
